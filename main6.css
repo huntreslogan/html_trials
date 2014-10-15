@@ -1,0 +1,32 @@
+div#box1 {
+    background-color: red;
+
+}
+
+div#box2 {
+    background-color: blue;
+}
+
+div.boxes {
+    display: inline-block;
+    margin: 0;
+    width  :350px;
+    height :200px;
+}
+
+div.babyboxes{
+    margin-left :50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display : inline-block;
+    width : 100px;
+    height : 100px;
+    background-color : black;
+
+}
+
+body {
+    margin:0;
+}
+
+

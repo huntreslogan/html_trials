@@ -1,0 +1,22 @@
+div#Box1 {
+    background-color: black;
+}
+
+div#Box2 {
+    background-color: red;
+}
+
+div#Box3 {
+    background-color: #ffd700;
+}
+
+
+div.Boxes {
+    margin :0;
+    width  :500px;
+    height :100px;
+
+}
+body {
+    margin:0;
+}

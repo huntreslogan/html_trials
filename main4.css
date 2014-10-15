@@ -1,0 +1,25 @@
+div#Box1 {
+    background-color: green;
+}
+
+div#Box2 {
+    background-color: white;
+}
+
+div#Box3 {
+    background-color: red;
+}
+
+div#black_border{
+    border : 5px solid black;
+    width : 300px;
+}
+div.Boxes {
+    margin: 0;
+    display: inline-block;
+    width  :100px;
+    height :200px;
+}
+body {
+    margin:0;
+}
