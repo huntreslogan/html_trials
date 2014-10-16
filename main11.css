@@ -1,13 +1,120 @@
-div#Box1 {
-    background-color: red;
+.bigass {
+    width: 600px;
+    height: 130px;
+    background-color: #555555;
+    margin-bottom: 10px;
+
+    }
+
+
+.upperbox1{
+
+    position: absolute;
+    width: 190px;
+    height:100px;
+    background-color: #cccccc;
+    margin-top: 10px;
+    margin-left: 10px;
+    
 }
 
-div.Boxes {
-    margin :0;
-    width  :350px;
-    height :240px;
+.upperbox2{
+
+    position: absolute;
+    width: 190px;
+    height:100px;
+    background-color: #cccccc;
+    margin-top: 10px;
+    margin-left: 205px;
+    
+}
+
+.upperbox3{
+
+    position: absolute;
+    width: 190px;
+    height:100px;
+    background-color: #cccccc;
+    margin-top: 10px;
+    margin-left: 400px;
+    
+}
+
+
+.midbox_big1{
+
+    position: absolute;
+    height: 100px;
+    width:140px;
+    background-color: #cccccc;
+    
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.midbox_small1{
+
+    position: absolute;
+    height: 75px;
+    width:140px;
+    background-color: #cccccc;
+    
+    margin-left: 155px;
+    margin-top: 10px;
 
 }
+
+.midbox_big2{
+
+    position: absolute;
+    height: 100px;
+    width:140px;
+    background-color: #cccccc;
+    
+    margin-left: 300px;
+    margin-top: 10px;
+
+}
+
+.midbox_small2{
+
+    position: absolute;
+    height: 75px;
+    width:140px;
+    background-color: #cccccc;
+    
+    margin-left: 445px;
+    margin-top: 10px;
+
+}
+
+#bottom_short{    
+
+    background-color: #cccccc;
+    position: absolute;
+    margin-top:70px;
+    margin-left: 10px;
+    width: 290px;
+    height: 35px;
+    
+}
+
+#bottom_tall{
+
+    background-color: #cccccc;
+    position: absolute;
+    width: 290px;
+    height: 95px;
+    
+    margin-top: 10px;
+    margin-left: 305px;
+}
+
 body {
     margin:0;
+    font-family: sans-serif;
+}
+label{
+    display : inline-block;
+    width : 120px;
 }

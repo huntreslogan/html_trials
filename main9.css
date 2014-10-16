@@ -1,13 +1,33 @@
-div#Box1 {
-    background-color: red;
-}
 
-div.Boxes {
-    margin :0;
-    width  :350px;
-    height :240px;
-
-}
 body {
-    margin:0;
+    margin:2px;
+    font-family : sans-serif;
+}
+
+div.label_form{
+    display : inline-block;
+}
+
+div.input_form{
+    display : inline-block;
+    margin-left:70px;
+}
+
+div.label_form_age{
+    display : inline-block;
+}
+
+div.input_form_age{
+    display : inline-block;
+    margin-left: 84px;
+}
+
+div.drop_down{
+    display : inline-block;
+    margin-left: 100px;
+}
+
+label{
+    display : inline-block;
+    width : 120px;
 }
